@@ -1,10 +1,10 @@
 footer {
-    background-color: #00FF00;
+    background-color: #ffffff;
     height: 60px;
     width: 100%;
     position: absolute;
     bottom: 0;
-    display: flex;
+    display: grid;
     align-items: center;
     place-content: center;
     }
